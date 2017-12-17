@@ -1,0 +1,12 @@
+312-2314-212 Mayonnaise 13 1.0 true
+765-4265-886 Ketchup 13 0.5 true
+112-7935-293 Tabasco 13 0.3 true
+399-9122-473 Mustard 13 0.4 true
+883-1111-798 Kimchi 14 0.4 true
+493-2984-192 Pickles 14 0.8 true
+913-4292-889 Milk 15 0.9 true
+513-2232-889 Eggnog 15 0.5 true
+212-9573-557 Kombucha 15 0.5 true
+100-1000-101 emptyitem1 10 0.0 true
+100-1000-102 emptyitem2 10 0.0 true
+100-1000-103 emptyitem3 10 0.0 true
